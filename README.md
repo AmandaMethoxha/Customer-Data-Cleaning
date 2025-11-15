@@ -135,10 +135,3 @@ It contains:
 - Clean missing values  
 - Sorted rows  
 
----
-
-## 📫 Need Updates?
-I’m happy to make adjustments, enhancements, or adapt the script to additional datasets.
-
-Thank you again for working with me!  
-— Amanda
